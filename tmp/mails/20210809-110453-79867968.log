@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Verify your account
+From: django@gb.local
+To: Qwer@mail.ru
+Date: Mon, 09 Aug 2021 08:04:53 -0000
+Message-ID: <162849629350.13036.12322790077719816400@LAPTOP-G09M42BV>
+
+http://127.0.0.1:8000/auth/verify/Qwer@mail.ru/a6096bace343f73f4038089e9ad55043473936c3/
+-------------------------------------------------------------------------------

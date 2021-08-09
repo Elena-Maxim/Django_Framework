@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Verify your account
+From: django@gb.local
+To: lenav34@mail.ru
+Date: Mon, 09 Aug 2021 10:12:19 -0000
+Message-ID: <162850393989.16800.8695061685635158653@LAPTOP-G09M42BV>
+
+http://127.0.0.1:8000/auth/verify/lenav34@mail.ru/a6157c5c94acfe2aaf7c93a2110f7b25c656e596/
+-------------------------------------------------------------------------------

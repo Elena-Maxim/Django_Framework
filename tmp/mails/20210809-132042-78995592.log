@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Verify your account
+From: django@gb.local
+To: asd@mail.ru
+Date: Mon, 09 Aug 2021 10:20:42 -0000
+Message-ID: <162850444299.6556.4891697362742327723@LAPTOP-G09M42BV>
+
+http://127.0.0.1:8000/auth/verify/asd@mail.ru/560fd594e9b90a94db7f6c0050bf18eebc49456c/
+-------------------------------------------------------------------------------
